@@ -1,0 +1,6 @@
+*/.idea
+.idea/*
+*/*/config.text
+*/*/*.sql
+*/*/*.sql~
+.gitignore
